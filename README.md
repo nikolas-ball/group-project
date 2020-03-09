@@ -1,5 +1,5 @@
 # group-project
-## [ Nick, Robert, Patrick, Joel ] - the group
+## [ Nick, Robert, Patrick, Joel, Garrett ] - the group
 The repository that hosts everything that has to do with the group project we started for the apprenticeship program at CSCC.
 
 ### First, we conceptualized the final product, and how we are going to get there, on a whiteboard.
