@@ -1,0 +1,16 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container .main {
+    Margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+i.right.chevron.icon {
+    position: relative;
+    top: 6px;
+}

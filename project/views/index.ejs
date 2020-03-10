@@ -1,0 +1,30 @@
+<%- include ("./partials/header") %>
+
+<div class=”ui main text container”>
+	<div class=”ui huge header”>Twitter Clone App</div>
+	<div class=”ui top attached segment”>
+		<div class=”ui divided items”>
+<% posts.forEach(function(post){ %>
+	<div class=”item”>
+		<div class=”image”>
+			<img src=”<%= post.image %>” >
+		</div>
+		<div class=”content”>
+			<a class=”header” href=”/posts/<%= post._id %>”><%=post.title%></a>
+		<div class=”meta”>
+			<span><%= post.created.toDateString() %></span>
+		</div>
+		<div class="description">
+<p><%- post.body.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 100) %><strong>...</strong></p>
+		</div>
+		<div class=”extra”>
+			<a class=”ui floated basic blue button” href=”/posts/<%= post._id %>”>Read More<i class=”right chevron icon”></i></a>
+		</div>
+	</div>
+</div>
+<% }) %>
+</div>
+</div>
+</div>
+
+<%- include ("./partials/footer") %>
