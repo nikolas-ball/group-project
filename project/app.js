@@ -22,7 +22,7 @@ var postSchema = new mongoose.Schema({
 });
 var Post = mongoose.model("Post", postSchema);
 
-// RESTFUL ROUTES
+// RESTFUL ROUTES!!!
 
 app.get("/", function(req, res){
 	res.redirect("/posts");
