@@ -6,7 +6,7 @@ express = require("express"),
 app = express();
 
 // APP CONFIG
-mongoose.connect("mongodb://localhost:27017/TCACSCCGP", {useNewUrlParser: true});
+mongoose.connect(process.env.DATABASEURL);
 app.set("view engine", "ejs");
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({extended: true}));
