@@ -1,4 +1,5 @@
 # [Live Link!](https://cscctwitterclone.herokuapp.com/posts)
+# [Informational Site](https://nickballdev.com/group-project-info/)
 
 ## [ Nick, Robert, Patrick, Joel, Garrett ] - the group
 The repository that hosts everything that has to do with the group project we started for the apprenticeship program at CSCC.
