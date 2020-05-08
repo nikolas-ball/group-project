@@ -13,3 +13,5 @@ The repository that hosts everything that has to do with the group project we st
 <p align="center">
   <img width="700" height="400" src="project/assets/images/proofOfConcept.png">
 </p>
+
+### From there, we met up many times as a group, and had to overcome obstacles to bring the project to fruition after the coronavirus struck during the spring semester. But stocking with it, we brought finally the project to light and made it functional. I was very lucky to have the opportunity to lead the group Along with that responsibility, I was lucky to be able to outline our goals and timeline as well as having creative control over the project. I faced and overcame countless hiccups along with way, but using the STAR method, all obstacles were indeed overcome, and the end result is certainly something to be proud of.
